@@ -1,4 +1,4 @@
-#**Pharmacy-Managent-System**
+#Pharmacy-Managent-System
 
 # Admin Login 
 - Username = admin 
